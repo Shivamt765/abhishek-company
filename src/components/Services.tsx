@@ -8,7 +8,7 @@ const Services = () => {
       title: "PVC Pipes Supply",
       description: "Durable and high-quality PVC pipes suitable for all water supply and sewage applications in residential, commercial, and industrial sectors.",
       features: ["UV Resistant", "High Flow Capacity", "Corrosion-Free", "Cost-Effective"],
-      image: "https://images.pexels.com/photos/415314/pexels-photo-415314.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1"
+      image: "https://www.colglo.co.uk/wp-content/uploads/2024/07/AdobeStock_329185759-copy.jpeg"
     },
     {
       icon: Droplets,
@@ -22,7 +22,7 @@ const Services = () => {
       title: "Government Project Supplier",
       description: "Trusted supplier for large-scale government infrastructure projects with certified materials and timely delivery.",
       features: ["Infrastructure Supply", "Bulk Material Provision", "Quality Certification", "Project Management"],
-      image: "https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1"
+      image: "https://rashmimetaliks.com/wp-content/uploads/2021/09/MG_1171.jpg"
     },
     {
       icon: Users,
