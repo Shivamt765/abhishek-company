@@ -146,7 +146,7 @@ const Footer = () => {
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-orange-500 transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-orange-500 transition-colors">Terms of Service</a>
-              <a href="#" className="hover:text-orange-500 transition-colors">Sitemap</a>
+              <a href="#" className="hover:text-orange-500 transition-colors">Sitemaps</a>
             </div>
           </div>
         </div>
