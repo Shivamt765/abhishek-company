@@ -138,7 +138,10 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-center md:text-left">
               © {currentYear} Abhishek & Company. All rights reserved. 
-              Built with excellence for piping solutions.
+              Built with excellence for piping solutions. Developed by 
+            <a href="https://nextgenscale.in" target="_blank" rel="noopener noreferrer" style="color: #007bff; text-decoration: underline;">
+              NextGen Scale
+            </a>.
             </p>
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-orange-500 transition-colors">Privacy Policy</a>
