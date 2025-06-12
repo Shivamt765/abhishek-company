@@ -5,22 +5,23 @@ const Hero = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const slides = [
-    {
-      title: "Expert Water Supply Solutions",
-      subtitle: "Comprehensive piping systems for residential and commercial projects",
-      image: "https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      title: "Government Project Specialists",
-      subtitle: "Trusted supplier for large-scale infrastructure developments",
-      image: "https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
-      title: "Professional Consulting Services",
-      subtitle: "Expert guidance for your piping and construction needs",
-      image: "https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    }
-  ];
+  {
+    title: "Ductile Iron & PVC Pipes",
+    subtitle: "Flanged and Fittings for all Water Supply & Sewerage Govt Projects",
+    image: "https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    title: "Bulk Supplier for Infrastructure",
+    subtitle: "Trusted partner for large-scale government and private projects",
+    image: "https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    title: "Consulting & Construction Works",
+    subtitle: "Professional services for end-to-end project execution and pipe system design",
+    image: "https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+];
+
 
   useEffect(() => {
     const timer = setInterval(() => {

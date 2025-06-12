@@ -4,6 +4,13 @@ import { Droplets, Building, Users, Hammer } from 'lucide-react';
 const Services = () => {
   const services = [
     {
+      icon: Droplets, // You can replace this with a pipe-specific icon if needed
+      title: "PVC Pipes Supply",
+      description: "Durable and high-quality PVC pipes suitable for all water supply and sewage applications in residential, commercial, and industrial sectors.",
+      features: ["UV Resistant", "High Flow Capacity", "Corrosion-Free", "Cost-Effective"],
+      image: "https://images.pexels.com/photos/415314/pexels-photo-415314.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1"
+    },
+    {
       icon: Droplets,
       title: "All Types of Water Supply",
       description: "Complete water supply solutions including pipe installation, maintenance, and repair for residential and commercial properties.",
